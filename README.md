@@ -1,15 +1,16 @@
 # stats220
-# this is a header
-## this is another header
+# learning another 'coding language' is hard
+## like seriously though, this is hard for me
 
-* this is a bullet point
-* this is another bullet point
+* reason 1 : I have the IQ of a peanut
+* reason 2: I have the attnetion span of a peanut
 
-1. first task
-2. second task
+Things that are cool so far with Stats220
+1. Fun/Interactive lectures 
+2. 40% exam weight
 
-**this should come up as bold**
+**40$ exam weight is a godsend**
 
-*since that worked lets try italics*
+*although not enough to completly bank on*
 
-[Insert title here](https://www.reddit.com/r/pics/comments/pdeo49/dont_mess_with_elmo_when_in_the_wrestling_ring/)
+[atleast seeing elmo body someone is always funny](https://www.reddit.com/r/pics/comments/pdeo49/dont_mess_with_elmo_when_in_the_wrestling_ring/)
