@@ -2,7 +2,7 @@
 # learning another 'coding language' is hard
 ## like seriously though, this is hard for me
 
-* reason 1 : I have the IQ of a peanut
+* reason 1: I have the IQ of a peanut
 * reason 2: I have the attention span of a peanut
 
 Things that are cool so far with Stats220:
